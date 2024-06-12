@@ -12,3 +12,8 @@
 + some libraries required virtual environment for installing.
 + pip install cftime, pip install pygrib, python -m pip install basemap: DONE!
 
+## Use miniconda (for eccodes, cfgrib) 
++ Download Miniforge3 and install it.
++ % conda install -c conda-forge eccodes
++ % conda install -c conda-forge python-eccodes
++ $ conda install -c conda-forge cfgrib
