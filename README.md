@@ -17,3 +17,9 @@
 + % conda install -c conda-forge eccodes
 + % conda install -c conda-forge python-eccodes
 + $ conda install -c conda-forge cfgrib
+
+## What is research for? Which parameters? (draft, first thought) 
++ precipitation (radar)
++ clouds (satellite images)
++ From a forecaster's perspective: comparing model outputs with real-time weather data
+            to QUANTIFY the reliability of the model outputs. 
