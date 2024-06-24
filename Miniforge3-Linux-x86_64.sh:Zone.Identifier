@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/conda-forge/miniforge?tab=readme-ov-file
-HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/221584272/44f31adc-7a87-4d05-8e42-82d599d5b648?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240610T044104Z&X-Amz-Expires=300&X-Amz-Signature=27f7d73ea57349bf0a82f23ff00e228ebec1f88d23be4a425c84b8b06f836a02&X-Amz-SignedHeaders=host&actor_id=167740871&key_id=0&repo_id=221584272&response-content-disposition=attachment%3B%20filename%3DMiniforge3-Linux-x86_64.sh&response-content-type=application%2Foctet-stream
