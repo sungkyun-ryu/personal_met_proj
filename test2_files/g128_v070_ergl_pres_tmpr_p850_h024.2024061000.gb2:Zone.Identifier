@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://apihub.kma.go.kr/api/typ06/url/nwp_vars_down.php?nwp=g128&sub=pres&vars=tmpr&pres=850&tmfc=202406100000&ef=24&dataType=GRIB&authKey=op3tPE72Tf6d7TxO9p3-Eg
