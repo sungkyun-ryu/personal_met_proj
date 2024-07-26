@@ -23,7 +23,10 @@
 
 
 ## What is research for? Which parameters? (draft, first thought) 
-+ precipitation (radar)
-+ clouds (satellite images)
++ ~precipitation (radar)~
++ clouds (satellite images) -> need to be processed using all variables (e.g. CA, CF, CLL etc.) to produce labels data.
++ missing satellite data -> should be replaced by +- 2 mins. 
 + From a forecaster's perspective: comparing model outputs with real-time weather data
-            to QUANTIFY the reliability of the model outputs. 
+            to QUANTIFY the reliability of the model outputs.
++ lcdc (low cloud prediction from UM_models) is going to be compared to with my model results.
++  
